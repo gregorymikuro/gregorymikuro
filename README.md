@@ -15,19 +15,6 @@ Passionate about leveraging data to drive insights and building intelligent syst
 </div>
 
 
-
----
-
-### Coding Stats (01 Jan 2025 - 31 Jan 2025)
-
-```plaintext
-Rust             32 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
-Python           16 hrs 15 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.15 %
-JavaScript       12 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   17.03 %
-TypeScript       10 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-SQL              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-```
-
 ---
 
 ### Skills and Tools
