@@ -7,9 +7,12 @@ Full-Stack Developer & Data Engineer with 3+ years of experience
 
 [LinkedIn](https://linkedin.com/in/gregorymikuro) • [Email](mailto:gregorymikuro@email.com)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&theme=dark)
+
 </div>
 
 ---
+
 
 ## Tech Stack
 
@@ -74,10 +77,10 @@ Full-Stack Developer & Data Engineer with 3+ years of experience
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gregorymikuro&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gregorymikuro&layout=compact&theme=default)
+![Repos](https://img.shields.io/badge/Repos-243-green?style=flat&logo=github)
+![Followers](https://img.shields.io/badge/Followers-9-green?style=flat&logo=github)
+![Stars](https://img.shields.io/badge/Stars-29-green?style=flat&logo=github)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gregorymikuro&theme=dark)
 ![Profile Views](https://komarev.com/ghpvc/?username=gregorymikuro&color=green&style=flat)
 
 </div>
