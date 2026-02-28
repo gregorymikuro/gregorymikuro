@@ -87,4 +87,12 @@ Full-Stack Developer & AI/ML Engineer with 3+ years of experience
 
 ---
 
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=gregorymikuro&theme=radical)
+
+</div>
+
+---
+
 > "First, solve the problem. Then, write the code." – John Johnson
