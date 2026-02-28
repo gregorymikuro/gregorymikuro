@@ -3,7 +3,7 @@
 
 ### Hi, I'm Gregory 👋
 
-Full-Stack Developer & Data Engineer with 3+ years of experience
+Full-Stack Developer & AI/ML Engineer with 3+ years of experience
 
 [LinkedIn](https://linkedin.com/in/gregorymikuro) • [Email](mailto:gregorymikuro@email.com)
 
